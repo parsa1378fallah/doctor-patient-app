@@ -34,7 +34,7 @@
           <v-app-bar-nav-icon dark class="ml-1"></v-app-bar-nav-icon>
           <h4 class="white--text mx-3">کارت مریض</h4>
           <v-spacer></v-spacer>
-          <h4 class="white--text">قرار ملاقات ها</h4>
+          <h4 class="white--text">قرار ملاقات </h4>
           <v-icon x-smallb color="#fff" class="mx-2">mdi-download-outline</v-icon>
           <v-btn class="">
             <v-icon class="mx-2" color="#01579B">mdi-plus</v-icon>
